@@ -1,0 +1,31 @@
+_repo: Pinya-de-Rosa.-Volume-2-Book-4_15347
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruyra, Joaquín
+    aliases:
+    - Oms, Joaquín Ruyra y
+    - Ruyra, Joaquim
+    - Ruyra i Oms, Joaquim
+    - Ruyra, Joaquin
+    birthdate: 1858
+    deathdate: 1939
+    gutenberg_agent_id: '5676'
+    url: http://www.gutenberg.org/2009/agents/5676
+description: ''
+gutenberg_issued: '2005-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15347'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Fiction'
+title: Pinya de Rosa. Volume 2, Book 4
+url: http://www.gutenberg.org/ebooks/15347
